@@ -1,0 +1,63 @@
+const List<Map> platformItems=[
+  {
+    "img":"assests/java.png",
+    "title":"JAVA"
+  },
+   {
+    "img":"assests/sql.png",
+    "title":"SQL"
+  },
+   {
+    "img":"assests/go.png",
+    "title":"GOLANG"
+  },
+   {
+    "img":"assests/py.png",
+    "title":"PYTHON"
+  },
+  
+
+];
+const List<Map> skillItems=[
+  {
+    "img":"assests/java.png",
+    "title":"JAVA"
+  },
+   {
+    "img":"assests/sql.png",
+    "title":"SQL"
+  },
+   {
+    "img":"assests/go.png",
+    "title":"GOLANG"
+  },
+   {
+    "img":"assests/py.png",
+    "title":"PYTHON"
+  },
+   {
+    "img":"assests/flutter.jpg",
+    "title":"FLUTTER"
+  },
+   {
+    "img":"assests/js.png",
+    "title":"JS"
+  },
+   {
+    "img":"assests/css.png",
+    "title":"CSS"
+  },
+   {
+    "img":"assests/html.png",
+    "title":"HTML"
+  },
+   {
+    "img":"assests/vue.png",
+    "title":"VUE"
+  },
+   {
+    "img":"assests/vuetify.png",
+    "title":"VUETIFY"
+  },
+
+];
